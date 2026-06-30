@@ -1,4 +1,5 @@
-#Hotel_Booking_Cancellation_Analysis
+Hotel Booking Cancellation Analysis
+
 Business Problem
 Online Travel Agencies face 37% average booking cancellation rates, directly impacting partner hotel revenue and platform commissions.
 
